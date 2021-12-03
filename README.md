@@ -8,4 +8,4 @@ This project is an **apartment building** living in the metaverse. I have built 
 > -Mark Zuckerberg
 1. Great Living Area
   - Beautiful Air
-   -Digital Heaven
+    - Digital Heaven
