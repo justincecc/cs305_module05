@@ -11,3 +11,4 @@ This project is an **apartment building** living in the metaverse. I have built 
     - Digital Heaven
 
 Dakota Battle was here!
+Daniel Di Carlo was here as well!
